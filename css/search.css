@@ -569,7 +569,7 @@ a:active {
 } */
 
 /* 注册出错提示框css */
-/* .no-sign {
+.no-sign {
     width: 500px;
     height: 300px;
     border: 10px solid #f2f2f2;
@@ -585,16 +585,16 @@ a:active {
     padding: 20px 0;
     box-sizing: border-box;
     display: none;
-} */
+} 
 
-/* .no-sign p{
+.no-sign p{
     font-size: 15px;
     color: #838181;
     margin-top: 20px;
     font-weight: 500;
-} */
+}
 
-/* .confirm {
+.confirm {
     width: 80px;
     height: 40px;
     border: 0;
@@ -607,9 +607,9 @@ a:active {
 
 .confirm:hover {
     cursor: pointer;
-}
+} 
 
-.wait {
+/* .wait {
     width: 500px;
     height: 300px;
     border: 10px solid #f2f2f2;
@@ -628,5 +628,5 @@ a:active {
     font-weight: bold;
     color: #0099ff;
     padding: 90px 0;
-} */
-
+} 
+ */
