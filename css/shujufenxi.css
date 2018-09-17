@@ -360,10 +360,29 @@ a:active {
 }
 
 .liujiaoxing {
-    width: 380px;
+    position: absolute;
     display: block;
-    margin: 36px auto 0 auto;
     display: none;
+    z-index: 5;
+    /* opacity: 1; */
+}
+
+.liujiaoxing1 { 
+    left: 316px;
+    top: 330px;
+    width: 140px;
+}
+
+.liujiaoxing2 {
+    left: 368px;
+    top: 348px;
+    width: 58px;
+}
+
+.liujiaoxing3 {
+    left: 362px;
+    top: 365px;
+    width: 48px;
 }
 
 .us {
@@ -414,6 +433,14 @@ a:active {
     top: 14px;
     left: 24px;
     width: 42px;
+}
+
+.liujiaoback {
+    position: absolute;
+    width: 500px;
+    top: 200px;
+    left: 50%;
+    margin-left: -250px;
 }
 /* 页脚的css */
 /* .footer {

@@ -68,25 +68,25 @@ us[0].addEventListener('click',function() {
     usImg[0].className = "us-img shwo-pur";
     usImg[1].className = "us-img";
     usImg[2].className = "us-img";
-    liujiaoxing[0].className = "liujiaoxing shwo-pur";
-    liujiaoxing[1].className = "liujiaoxing";
-    liujiaoxing[2].className = "liujiaoxing";
+    liujiaoxing[0].className = "liujiaoxing liujiaoxing1 shwo-pur";
+    liujiaoxing[1].className = "liujiaoxing liujiaoxing2";
+    liujiaoxing[2].className = "liujiaoxing liujiaoxing3";
 });
 us[1].addEventListener('click',function() {
     usImg[1].className = "us-img shwo-pur";
     usImg[0].className = "us-img";
     usImg[2].className = "us-img";
-    liujiaoxing[1].className = "liujiaoxing shwo-pur";
-    liujiaoxing[0].className = "liujiaoxing";
-    liujiaoxing[2].className = "liujiaoxing";
+    liujiaoxing[1].className = "liujiaoxing liujiaoxing2 shwo-pur";
+    liujiaoxing[0].className = "liujiaoxing liujiaoxing1";
+    liujiaoxing[2].className = "liujiaoxing liujiaoxing3";
 })
 us[2].addEventListener('click',function() {
     usImg[2].className = "us-img shwo-pur";
     usImg[0].className = "us-img";
     usImg[1].className = "us-img";
-    liujiaoxing[2].className = "liujiaoxing shwo-pur";
-    liujiaoxing[0].className = "liujiaoxing";
-    liujiaoxing[1].className = "liujiaoxing";
+    liujiaoxing[2].className = "liujiaoxing liujiaoxing3 shwo-pur";
+    liujiaoxing[0].className = "liujiaoxing liujiaoxing1";
+    liujiaoxing[1].className = "liujiaoxing liujiaoxing2";
 })
 
 
