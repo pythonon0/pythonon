@@ -5,7 +5,7 @@ var noSign = document.getElementsByClassName('no-sign')[0];
 document.addEventListener('keypress',function(e){
     if(e.keyCode == 13){
         if(input.value == "汽车工程师") {
-            window.open("https://xdxxdxxdxxdxxdx.github.io/pythononplus/searchinner.html","_blank");
+            window.open("https://pythonon0.github.io/pythonon/searchinner.html","_blank");
         }else{
             xxx.innerHTML = input.value;
             noSign.style.display = "block";
@@ -15,7 +15,7 @@ document.addEventListener('keypress',function(e){
 
 serachImg.addEventListener('click',function(){
     if(input.value == "汽车工程师") {
-        window.open("https://xdxxdxxdxxdxxdx.github.io/pythononplus/searchinner.html","_blank");
+        window.open("https://pythonon0.github.io/pythonon/searchinner.html","_blank");
     }else{
         xxx.innerHTML = input.value;
         noSign.style.display = "block";
